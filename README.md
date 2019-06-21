@@ -2,7 +2,7 @@
 
 | Name         | Date           |
 |:-------------|:---------------|
-|Israel Phiri  | June 12, 2019. |
+|Israel Phiri  | June 21, 2019. |
 
 -----
 
