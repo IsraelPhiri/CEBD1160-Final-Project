@@ -44,17 +44,15 @@ Nonflavanoid phenols, Proanthocyanins, Color Intensity, Hue, OD280/OD315 of dilu
 ### Methods
 
 - To solve my question, first I used the distribution plot so as to have an idea if the targets could be
-  separated.
+  separated.(Please see alcohol.png plot)
 - I then split the data(0.35) for training and testing.
 - I tried at least two predictive models ( could have tried more ) and picked the best between the two based on their
   prediction results.
-- The logistic regression was the best perfomer with an f1-score of 94%.  
+- The logistic regression was the better perfomer with an f1-score of 94%.  
 
 ### Results
 
-Brief (2 paragraph) description about your results. Include:
-
-- At least 1 figure
+- figures and plots ( please see distplots/ matplots/ pair_plots/ and multi_pairplot.png
 
 
 LogisticRegression Accuracy score is 0.95/ 
