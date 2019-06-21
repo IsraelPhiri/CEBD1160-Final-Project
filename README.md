@@ -1,5 +1,4 @@
-# cebd1160_project_template
-Instructions and template for final projects.
+# CEBD1160_Final_Project
 
 | Name         | Date           |
 |:-------------|:---------------|
@@ -12,7 +11,7 @@ My repository includes the following:
 
 - Python script for analysis: project-processor.py
 - Results figure/saved file : alcohol_distribution.png multi_pairplot.png distplots(dir) matplots(dir) pairplots(dir)
-- Dockerfile for your experiment: Dockerfile
+- Dockerfile for your experiment: Dockerfile  requirements.txt
 - runtime-instructions          : RUNME.md
 - Explanation of my project : README.md
 - Extras: wine.data
